@@ -1,5 +1,5 @@
 ---
-status: pending
+status: implemented
 title: Basic Personal Todo App with Due Dates
 ---
 
